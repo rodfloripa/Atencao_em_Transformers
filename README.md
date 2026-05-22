@@ -28,17 +28,7 @@ Esse tipo de projeto possui excelente valor para portfólio porque demonstra dom
 
 ---
 
-<p align="justify"><h1>Estrutura do Projeto</h1></p>
 
-```text
-self_attention_visualizer/
-│
-├── app.py
-├── requirements.txt
-└── README.md
-````
-
----
 
 <p align="justify"><h1>Funcionamento Geral</h1></p>
 
