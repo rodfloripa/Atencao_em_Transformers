@@ -240,6 +240,13 @@ Cada embedding é projetado em três espaços diferentes:
 </ul>
 
 O Transformer compara Queries com Keys para medir relevância contextual.
+*Exemplo em uma frase:*
+Na frase "O gato que bebeu leite dormiu", para calcular a atenção da palavra "dormiu", o *q* de "dormiu" busca similaridade com o *k* de "gato" e "leite", e então traz a informação do *v* correspondente para entender quem dormiu.
+
+*Traduzindo:*
+- *Query (q)*: "O que estou procurando?" → A palavra atual querendo contexto
+- *Key (k)*: "Com o que posso combinar?" → Rótulo de cada palavra para ser encontrada  
+- *Value (v)*: "Que informação eu carrego?" → O conteúdo real que será passado adiante
 
 </div>
 
