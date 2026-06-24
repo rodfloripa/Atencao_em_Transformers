@@ -338,10 +338,10 @@ sns.heatmap(
     yticklabels=tokens
 )
 ```
-
+![Mapa de Calor](<https://github.com/rodfloripa/Atencao_em_Transformers/blob/main/download%20(5).png>)
 <div align="justify">
 
-O heatmap permite visualizar o comportamento interno do mecanismo de Self-Attention.
+O mapa de calor permite visualizar o comportamento interno do mecanismo de Self-Attention.
 
 Cada linha representa:
 
